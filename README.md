@@ -1,2 +1,3 @@
-# stock-library
-Personal Stock Investment Home 
+# Stock Library
+
+Personal Stock Investment Home
