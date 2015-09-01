@@ -1,6 +1,28 @@
 # Stock Library
 
-Personal Stock Investment Home
+TO DO:
+
+Organize information in folders and links from home page README
+
+What to watch to learn about Investing:
+
+-  "Money for Nothing" (2013)
+
+- "Something Ventured" (2011)
+
+- "Freakonomics" (2010)
+
+- "The Wolf of Wall Street" (2013)
+
+- "Hank: 5 Years from the Brink" (2013)
+
+- "Pump" (2014)
+
+Trading Platforms List:
+
+- https://www.thinkorswim.com/t/trading.html
+
+
 
 ## 5 Basic Stock Categories of Market Capitalization
 
