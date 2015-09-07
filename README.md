@@ -8,6 +8,8 @@ Organize information in folders and links from home page README
 
 * [Film Learn](film-learn/README.md)
 
+* [Brokers](brokers/README.md)
+
 Trading Platforms List:
 
 * https://www.thinkorswim.com/t/trading.html
