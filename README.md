@@ -6,31 +6,55 @@ Organize information in folders and links from home page README
 
 * [Stock Tables](stock-tables/README.md)
 
-What to watch to learn about Investing:
-
--  "Money for Nothing" (2013)
-
-- "Something Ventured" (2011)
-
-- "Freakonomics" (2010)
-
-- "The Wolf of Wall Street" (2013)
-
-- "Hank: 5 Years from the Brink" (2013)
-
-- "Pump" (2014)
+* [Film Learn](film-learn/README.md)
 
 Trading Platforms List:
 
-- https://www.thinkorswim.com/t/trading.html
+* https://www.thinkorswim.com/t/trading.html
 
 Trading Stocks Resources:
 
-- foo boo
+* http://algorithmictrading.net/
 
-My Investment portfolio
+* http://stockcharts.com/
 
-- foo boo
+* https://www.tradingview.com/
+
+* http://claytrader.com/resources/
+
+Investor News
+
+* http://www.theglobeandmail.com/globe-investor/
+
+* http://www.bloomberg.com/
+
+* http://www.marketwatch.com/
+
+* http://money.cnn.com/investing/
+
+* http://www.financialpost.com/index.html
+
+* https://www.djindexes.com/
+
+* http://www.standardandpoors.com/
+
+* http://www.wilshire.com/
+
+* http://www.nasdaq.com/
+
+* http://www.sedar.com/
+
+* http://www.sec.gov/edgar/searchedgar/companysearch.html
+
+
+Imaginary Investing
+
+* http://www.investopedia.com/simulator/
+
+
+Resources:
+
+Stock Investing For Canadians for Dummies - 3rd Edition (Book)
 
 
 ## 5 Basic Stock Categories of Market Capitalization
@@ -137,3 +161,31 @@ Yield is an investment payout expressed as a percentage of the investment amount
 * Negative news reports about a company's competitors.
 
 ### Economics effects from government actions
+
+## Using News about Dividends
+
+### Looking at important dates
+
+* **Date of declaration**
+
+    Date when a company reports a quarterly dividend and the subsequent payment dates.
+
+* **Date of execution**
+
+    Day you actually initiate the stock transaction (buying or selling)
+
+* **Closing date (settlement date)**
+
+    Date on which the trade is finalized. Happens three business days after the date of execution.
+
+* **Date of record**
+
+    Used to identify which shareholders qualify to receive the declared dividend.
+
+* **Ex-dividend date**
+
+    When you buy stock during this short frame you arent on the books of record.
+
+* **Payment date**
+
+    Date on which a company issues and mails its dividend cheques to shareholders.

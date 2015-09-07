@@ -71,4 +71,26 @@
 
 ## P/E
 
-*
+* P/E ratio is the ratio between the price of the stock and the company's earnings.
+
+* Value investors find P/E ratios to be essential to analyzing a stock as a potential investment.
+
+* P/E should be 10 - 20 for large cap. Growth stocks - P/E no greater than 30 - 40.
+
+`P/E ratio = price / earnings`
+
+> **Example**
+>
+> `VNI` has a reported P/E of 12, which is considered a low P/E
+>
+> `SHC` has a relatively high P/E of 76, this stock is considered too pricey because you  are paying a price equivalent to 76 times earnings.
+
+## Day Last
+
+* "Day Last" column tells you how trading ended for a particular stock on the day represented by the table.
+
+## Net change
+
+* Stock price end today compared with it's price at the end of the prior trading day. 
+
+* It can be view in percentage change or amount change.
