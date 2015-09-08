@@ -10,6 +10,10 @@ Organize information in folders and links from home page README
 
 * [Brokers](brokers/README.md)
 
+* [Investing For Growth](investing-for-growth/README.md)
+
+* [Resources for Stock Investors](resources-stock-investors/README.md) 
+
 Trading Platforms List:
 
 * https://www.thinkorswim.com/t/trading.html
@@ -48,6 +52,7 @@ Investor News
 
 * http://www.sec.gov/edgar/searchedgar/companysearch.html
 
+* http://www.economist.com/
 
 Imaginary Investing
 
@@ -191,3 +196,15 @@ Yield is an investment payout expressed as a percentage of the investment amount
 * **Payment date**
 
     Date on which a company issues and mails its dividend cheques to shareholders.
+
+## Analyzing Income Stocks
+
+A = How much annual income do you need? Sample: $10,000
+
+B = What is the value of your portfolio? Sample: $150,000
+
+C = What is yield necessary to achieve $10,000? Sample: $10,000/$150,000 = 6.7% of dividend yield
+
+## Checking the stock's payment ratio
+
+Dividend (per share) / earnings (per share) = payout ratio
