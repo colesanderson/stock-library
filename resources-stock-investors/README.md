@@ -28,6 +28,15 @@
 
 * [Zacks](http://www.zacks.com/)
 
+* [RBC Economics](http://www.rbc.com/economics/index.html)
+
+* [Statistics Canada](http://www5.statcan.gc.ca/subject-sujet/theme-theme.action?pid=3764&lang=eng&more=0&MM)
+
+* [Bureau of Economic Analysis](http://www.bea.gov/index.htm)
+
+* [Commerce Gov News](https://www.commerce.gov/news)
+
+
 ## Industry analysis
 
 * [Hoovers](http://www.hoovers.com/)
@@ -43,6 +52,11 @@
 * [Moody's Economy](https://www.economy.com/)
 
 * [American Institute for Economic Research](https://www.aier.org/)
+
+* [Financial Sense](http://www.financialsense.com/)
+
+* [Conference Board](https://www.conference-board.org/)
+
 
 ## Trading Platforms List:
 

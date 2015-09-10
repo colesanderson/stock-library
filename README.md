@@ -1,7 +1,5 @@
 # Stock Library
 
-TO DO:
-
 Organize information in folders and links from home page README
 
 * [Stock Tables](stock-tables/README.md)
@@ -12,51 +10,8 @@ Organize information in folders and links from home page README
 
 * [Investing For Growth](investing-for-growth/README.md)
 
-* [Resources for Stock Investors](resources-stock-investors/README.md) 
+* [Resources for Stock Investors](resources-stock-investors/README.md)
 
-Trading Platforms List:
-
-* https://www.thinkorswim.com/t/trading.html
-
-Trading Stocks Resources:
-
-* http://algorithmictrading.net/
-
-* http://stockcharts.com/
-
-* https://www.tradingview.com/
-
-* http://claytrader.com/resources/
-
-Investor News
-
-* http://www.theglobeandmail.com/globe-investor/
-
-* http://www.bloomberg.com/
-
-* http://www.marketwatch.com/
-
-* http://money.cnn.com/investing/
-
-* http://www.financialpost.com/index.html
-
-* https://www.djindexes.com/
-
-* http://www.standardandpoors.com/
-
-* http://www.wilshire.com/
-
-* http://www.nasdaq.com/
-
-* http://www.sedar.com/
-
-* http://www.sec.gov/edgar/searchedgar/companysearch.html
-
-* http://www.economist.com/
-
-Imaginary Investing
-
-* http://www.investopedia.com/simulator/
 
 
 Resources:
