@@ -27,7 +27,7 @@ We count on supply and demand to tell us how well a product or service will sell
 ## Politics and Investing
 
 | Possible Legislation   | Effect on Investing            |
-| :--------------------: | :----------------------------: |
+| -------------------- | ---------------------------- |
 | Taxes | Generally, more or higher taxes ultimately have a negative impact on stock investing. Income taxes and capital gains taxes are good examples. |
 | Laws | Price controls - laws that set the price of a product, service, or commodity - are examples of negative laws. |
 | Regulations | Generally, more or tougher regulations have a negative impact on stocks. |
