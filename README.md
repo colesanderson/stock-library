@@ -14,6 +14,8 @@ Organize information in folders and links from home page README
 
 * [Industry Analysis](industry-analysis/README.md)
 
+* [Stock Strategy](stock-strategy/README.md)
+
 * [Resources for Stock Investors](resources-stock-investors/README.md)
 
 Resources:
@@ -190,3 +192,45 @@ Dividend (per share) / earnings (per share) = payout ratio
 * Transferring risk
 
 * Accepting some risk
+
+## What are call and put options?
+
+**Call**
+
+A call option is a bet that particular stock (or exchange-traded fund) will go up during the file of the option.
+
+**Put**
+
+A put option is a bet that particular stock (or exchange-traded fund) will go down during the life of the option.
+
+Think of the following rule of thumb:
+
+* If the stock goes up 10 percent, a call option on that stock could go up 20 percent. Of course, a put option on the same stock would lose 20 percent.
+
+* If the stock goes down 10 percent, a call could go down 20 percent. Of course, a put option on that same stock would gain 20 percent.
+
+* If the stock stays flat or neutral, both call and put options would start to lose value because options have finite life and can potentially be worthless by the time they expire.
+
+## Basic Rules of Trading:
+
+* Don't commit all your cash at once.
+
+* Have a plan.
+
+* Taking profits is not a sin.
+
+* Discover hedging techniques.
+
+* Find out which events move markets.
+
+* Check the stock's trading history.
+
+* Use stop-loss and limit orders.
+
+* Use discipline and patience versus emotion and panic.
+
+* Minimize transaction costs.
+
+* Understand the beta of a stock.
+
+* Read and learn from top traders.
