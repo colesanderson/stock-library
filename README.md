@@ -10,14 +10,15 @@ Organize information in folders and links from home page README
 
 * [Economics](economics/README.md)
 
+* [Financial Statement](financial-statement/README.md)
+
+* [Industry Analysis](industry-analysis/README.md)
+
 * [Resources for Stock Investors](resources-stock-investors/README.md)
-
-
 
 Resources:
 
 Stock Investing For Canadians for Dummies - 3rd Edition (Book)
-
 
 ## 5 Basic Stock Categories of Market Capitalization
 
@@ -163,3 +164,29 @@ C = What is yield necessary to achieve $10,000? Sample: $10,000/$150,000 = 6.7% 
 ## Checking the stock's payment ratio
 
 Dividend (per share) / earnings (per share) = payout ratio
+
+## Senior management's role in good governance: Rolling up the sleeves.
+
+* Strategic planning: This purpose may include market leadership, customer-service excellence and similar high-level objectives.
+
+* Leadership: A vision statement evokes a strong image of the reality made possible by accomplishing the company's mission.
+
+* Organization design: This include having the right number and location of plants, offices and staff.
+
+* Risk management: Does management demonstrate an awareness of it's risk in its annual report?
+
+* Assurance: This include publishing the external auditor's management letter, even if the company doesn't have to.
+
+## Looking for evidence of the following risk-managment techniques:
+
+* Avoiding risk
+
+* Diversifying risk exposure
+
+* Controlling risky situations
+
+* Sharing risk
+
+* Transferring risk
+
+* Accepting some risk

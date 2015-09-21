@@ -36,6 +36,7 @@
 
 * [Commerce Gov News](https://www.commerce.gov/news)
 
+* [Elliot Wave](http://www.elliottwave.com/)
 
 ## Industry analysis
 

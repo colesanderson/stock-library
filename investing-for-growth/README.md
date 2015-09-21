@@ -57,3 +57,28 @@ A megatrend is a major development that has huge implications for much of societ
     Eg. Net earnings compare and Equity compare
 
 * Insider buying
+
+
+## 5 minutes for Misconduct
+
+* **Ruin at the Top: Corporate Governance Risk**
+
+* **The role of the board of directors**
+
+* **How the BOD manages risks**
+
+* **Senior management's role in good governance**
+
+* **Management's role in the controlling risk**
+
+* **Fraud**
+
+* **Conflict of interest**
+
+* **A bad repetitional risk**
+
+* **Informational and technologies Risks**
+
+* **Piracy**
+
+* **Privacy**
