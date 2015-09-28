@@ -18,6 +18,8 @@ Organize information in folders and links from home page README
 
 * [Resources for Stock Investors](resources-stock-investors/README.md)
 
+* [Read Charts](read-charts/README.md)
+
 Resources:
 
 Stock Investing For Canadians for Dummies - 3rd Edition (Book)
@@ -245,4 +247,4 @@ After reading top 100 best stocks and I found few different major features that 
 
 2. Earnings rise and stock price will follow.
 
-3. 
+3.
