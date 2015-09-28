@@ -22,6 +22,8 @@ Resources:
 
 Stock Investing For Canadians for Dummies - 3rd Edition (Book)
 
+How to Make Money in Stocks - 4th Edition (Book)
+
 ## 5 Basic Stock Categories of Market Capitalization
 
 * Micro Cap: Under 250 million: Smallest and hence the riskest.
@@ -234,3 +236,13 @@ Think of the following rule of thumb:
 * Understand the beta of a stock.
 
 * Read and learn from top traders.
+
+## Reading chart
+
+After reading top 100 best stocks and I found few different major features that I noticed:
+
+1. Highest volume and repeat 2-4 times and that shows it will continue to break out.
+
+2. Earnings rise and stock price will follow.
+
+3. 
