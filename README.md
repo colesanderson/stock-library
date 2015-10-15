@@ -16,15 +16,19 @@ Organize information in folders and links from home page README
 
 * [Stock Strategy](stock-strategy/README.md)
 
-* [Resources for Stock Investors](resources-stock-investors/README.md)
-
 * [Read Charts](read-charts/README.md)
+
+* [Resources for Stock Investors](resources-stock-investors/README.md)
 
 Resources:
 
 Stock Investing For Canadians for Dummies - 3rd Edition (Book)
 
 How to Make Money in Stocks - 4th Edition (Book)
+
+## Cole's portfolio
+
+$UWTI since reverse split 1 for 10 with 850 shares to 75 shares. On August 27, 2015, I had 85 shares of $9.64, total $819.40 USD and sold 85 shares on October 6, 2015 for $12.62, total $1,074.40. Profit $254.96 USD. Toal percent of increase is 30.9%
 
 ## 5 Basic Stock Categories of Market Capitalization
 

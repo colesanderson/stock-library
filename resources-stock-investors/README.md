@@ -17,6 +17,7 @@
 * [The Globe and Mail](http://www.theglobeandmail.com/globe-investor/)  
 
 * [Financial Post](http://www.financialpost.com/index.html)  
+* [Investors Business Daily](http://research.investors.com/)
 
 ## Company research and analyst evaluations
 
