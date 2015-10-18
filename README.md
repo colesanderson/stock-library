@@ -2,6 +2,8 @@
 
 Organize information in folders and links from home page README
 
+* [CAN - SLIM](CAN-SLIM/README.md)
+
 * [Stock Tables](stock-tables/README.md)
 
 * [Brokers](brokers/README.md)
