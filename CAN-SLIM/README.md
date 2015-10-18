@@ -1,6 +1,6 @@
 # CAN-SLIM
 
-* [C](C/README.md) - [A](A/README.md) - [N](N/README.md) - - [S](S/README.md) - [L](L/README.md) - [I](I/README.md) - [M](M/README.md)
+[C](C/README.md) - [A](A/README.md) - [N](N/README.md) - - [S](S/README.md) - [L](L/README.md) - [I](I/README.md) - [M](M/README.md)
 
 ## C = Current Quarterly Earnings per Share
 
