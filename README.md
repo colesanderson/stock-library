@@ -4,6 +4,10 @@ Organize information in folders and links from home page README
 
 * [CAN - SLIM](CAN-SLIM/README.md)
 
+* [When To Sell Stocks](when-sell-stocks/README.md)
+
+* [When To Take Profits](when-take-profits-stocks/README.md)
+
 * [Stock Tables](stock-tables/README.md)
 
 * [Brokers](brokers/README.md)
@@ -28,17 +32,13 @@ Stock Investing For Canadians for Dummies - 3rd Edition (Book)
 
 How to Make Money in Stocks - 4th Edition (Book)
 
-## Cole's portfolio
-
-$UWTI since reverse split 1 for 10 with 850 shares to 75 shares. On August 27, 2015, I had 85 shares of $9.64, total $819.40 USD and sold 85 shares on October 6, 2015 for $12.62, total $1,074.40. Profit $254.96 USD. Toal percent of increase is 30.9%
-
 ## 5 Basic Stock Categories of Market Capitalization
 
 * Micro Cap: Under 250 million: Smallest and hence the riskest.
 
 * Small Cap: 250 million - 1 billion: Still have potential growth.
 
-* Mid Cap: 1 billion - 50 billion: Good comprise between small and large, safety large cap with growth potenital.
+* Mid Cap: 1 billion - 50 billion: Good comprise between small and large, safety large cap with growth potential.
 
 * Large Cap: 10 billion - 50 billion: Best reserved for conservative stock investors who want steady appreciations with greater safety.
 
@@ -75,7 +75,7 @@ Dividends are payments made to an owner (unlike interest, which is payments to a
 
 ## What is Yield?
 
-Yield is an investment payout expressed as a percentage of the investment amount. Looking at the yield is a way to compare the income you expect to recieve from one investment with the expected income from others.
+Yield is an investment payout expressed as a percentage of the investment amount. Looking at the yield is a way to compare the income you expect to receive from one investment with the expected income from others.
 
 `dividend yield = annual dividend per share / stock's price per share`
 
@@ -159,7 +159,7 @@ Yield is an investment payout expressed as a percentage of the investment amount
 
 * **Ex-dividend date**
 
-    When you buy stock during this short frame you arent on the books of record.
+    When you buy stock during this short frame you aren't on the books of record.
 
 * **Payment date**
 
