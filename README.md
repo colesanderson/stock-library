@@ -8,6 +8,10 @@ Organize information in folders and links from home page README
 
 * [When To Take Profits](when-take-profits-stocks/README.md)
 
+* [Money Management](money-management/README.md)
+
+* [Costly Common Mistakes](costly-common-mistakes/README.md)
+
 * [Stock Tables](stock-tables/README.md)
 
 * [Brokers](brokers/README.md)
