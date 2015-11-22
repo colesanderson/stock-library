@@ -75,5 +75,3 @@ Value investors talk about three different book value measures:
 * "Free" Cash flow
 
 * Cash flow from financing activities
-
- 

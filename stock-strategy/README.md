@@ -20,7 +20,7 @@ Stay alert to growing trends in society. Check out the data freely available at 
 
 6. Stay aware of positive publicity for industries
 
-7. Watch megatrends
+7. Watch mega trends
 
 8. Keep track of politics
 

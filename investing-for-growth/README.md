@@ -82,3 +82,15 @@ A megatrend is a major development that has huge implications for much of societ
 * **Piracy**
 
 * **Privacy**
+
+## Picking the Best Market Themes Sectors, and Industry Groups
+
+The majority of the leading stocks are usually in leading industries. Studies show that 37% of a stock's price movement is directly tied to the performance of the industry group the stock is in. Another 12% is due to strength in its overall sector.
+
+Sector is a broad grouping of companies and industries. These include, for example, basic industries, consumer goods and services, transportation, finance, and high technology.
+
+Industry group is a smaller, more specific grouping of companies; there normally are several industry groups within a sector.
+
+For example: the medical industry can be divided into hospital companies, generic drugs, dental, home nursing, biotech, etc.
+
+There are 197 industry groups. 

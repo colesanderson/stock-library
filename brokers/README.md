@@ -4,7 +4,7 @@
 
 * Providing advisory services:
 
-    Investors pay brokers a fee for investment advice. Customers also get access to the firm's reserach.
+    Investors pay brokers a fee for investment advice. Customers also get access to the firm's research.
 
 * Offering limited banking services:
 
