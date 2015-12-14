@@ -36,6 +36,8 @@ Stock Investing For Canadians for Dummies - 3rd Edition (Book)
 
 How to Make Money in Stocks - 4th Edition (Book)
 
+A Beginner's Guide To Day Trading Online - 2nd Edition (Book)
+
 ## 5 Basic Stock Categories of Market Capitalization
 
 * Micro Cap: Under 250 million: Smallest and hence the riskest.
