@@ -1,1 +1,1 @@
-# Dual Candle Lines
+# Single Candle Lines
