@@ -12,7 +12,7 @@ First rules he made in 1960 were as follows:
 
 1. Concentrate on listed stocks that sell for more than $20 a share with at least some institutional acceptance.
 
-2. Insist that the company show increases in earnings per share in each of past five years and that the current quartely earnings are up at least 20%.
+2. Insist that the company show increases in earnings per share in each of past five years and that the current quarterly earnings are up at least 20%.
 
 3. Buy when the stock is making or about to make a new high in price after emerging from a sound correction and price consolidation period. This breakout should be accompanied by a volume increase to at least 50% above the stock's average daily volume.
 

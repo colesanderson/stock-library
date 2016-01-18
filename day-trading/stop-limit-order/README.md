@@ -73,3 +73,35 @@ Investor put in a stop-limit order to buy the stop price at $45 and the limit pr
 
 If price of MNO moves above $45 stop price, the order is activated and turns into a limit order.
 ```
+
+**Real Life Example**
+
+```
+Bought 100 shares of GPRO at $16.23
+
+Set "Stop order" of 100 shares of GPRO at 15.90
+
+If it go down to $15.90 and will auto sell.
+
+To maximize loss.
+```
+
+```
+Bought 100 shares of NMpH at $5.31
+
+Set "Limit order" of 100 shares of NMpH at $6.00
+
+If it go up to $6.00 and will auto sell.
+
+To maximize profit.
+```
+
+```
+Short 18 shares of DD $67.29
+
+Set "Stop order" of 18 shares of DD at $72.00
+
+If it go up to $72.00 and will auto buy.
+
+To maximize loss.
+```
