@@ -5,3 +5,5 @@
 * [The Patterns](the-patterns/README.md)
 
 * [Candles And The Overall Technical Picture](candles-overall-technical/README.md)
+
+* [How The Japanese Use Moving Averages](moving-averages/README.md)
