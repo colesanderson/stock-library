@@ -4,15 +4,11 @@ Organize information in folders and links from home page README
 
 * [CAN - SLIM](CAN-SLIM/README.md)
 
-* [When To Sell Stocks](when-sell-stocks/README.md)
-
-* [When To Take Profits](when-take-profits-stocks/README.md)
-
 * [Costly Common Mistakes](costly-common-mistakes/README.md)
 
-* [Stock Tables](stock-tables/README.md)
+* [Day Trading](day-trading/README.md)
 
-* [Investing For Growth](investing-for-growth/README.md)
+* [Dividends](dividends/README.md)
 
 * [Economics](economics/README.md)
 
@@ -20,13 +16,21 @@ Organize information in folders and links from home page README
 
 * [Industry Analysis](industry-analysis/README.md)
 
-* [Stock Strategy](stock-strategy/README.md)
+* [Investing For Growth](investing-for-growth/README.md)
+
+* [Penny Stocks](penny-stocks/README.md)
 
 * [Read Charts](read-charts/README.md)
 
-* [Dividends](dividends/README.md)
-
 * [Resources for Stock Investors](resources-stock-investors/README.md)
+
+* [Stock Strategy](stock-strategy/README.md)
+
+* [Stock Tables](stock-tables/README.md)
+
+* [When To Sell Stocks](when-sell-stocks/README.md)
+
+* [When To Take Profits](when-take-profits-stocks/README.md)
 
 Resources:
 
