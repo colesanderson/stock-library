@@ -6,7 +6,7 @@ Quarterly earnings per share must e up at least 18% to 20%, but preferably up to
 
 They should also be accelerating at some point in recent quarters. Quarters sales should also be accelerating or up to 25%.
 
-## [A = Annual Earnings Increases]((A/README.md))
+## [A = Annual Earnings Increases](A/README.md)
 
 There must be significant (25% or more) growth in each of the last three years and a return on equity of 17% or more (with 25% to 50% preferred). If return on equity is too low, pretax profit margin must be strong.
 
