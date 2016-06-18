@@ -56,7 +56,7 @@ Since 80% to 90% of price patterns are created during periods of market correcti
 
 Bear markets can last as little as three, six or nine months or as long as two or in rare cases, three years.
 
-A bear market is the time to do a postanalysis of your prior decisions. Plot on daily or weekly charts excatly where you bought and sold all the stocks you traded in the past year. Study your decisions and write out some new rules that will let you avoid the mistakes you made in the past cycle.
+A bear market is the time to do a post analysis of your prior decisions. Plot on daily or weekly charts exactly where you bought and sold all the stocks you traded in the past year. Study your decisions and write out some new rules that will let you avoid the mistakes you made in the past cycle.
 
 Develop some rules to make sure that you buy the real leaders and handle them right in the next bull market cycle.
 

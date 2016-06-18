@@ -1,5 +1,26 @@
 # Stock strategy
 
+## 5 Basic Stock Categories of Market Capitalization
+
+* Micro Cap: Under 250 million: Smallest and hence the riskest.
+
+* Small Cap: 250 million - 1 billion: Still have potential growth.
+
+* Mid Cap: 1 billion - 50 billion: Good comprise between small and large, safety large cap with growth potential.
+
+* Large Cap: 10 billion - 50 billion: Best reserved for conservative stock investors who want steady appreciations with greater safety.
+
+* Ultra Cap: Over 50 billion (mega cap): Biggest of the US stocks.
+
+## Type of investors
+
+| Type of Investors   | Time            | Type of Stock   |
+| :-----------------: | :-------------: | :-------------: |
+| Conservative (worries about risk) | Long term: over 5 years  | Large Cap - Mid Cap |
+| Aggressive (high tolerance to risk) | Long term: over 5 years | Small Cap - Mid Cap |
+| Conservative (worries about risk) | Intermediate term: 2 - 5 years | Small Cap - Mid Cap |
+| Aggressive (high tolerance to risk) | Intermediate term: 2 - 5 years | Small Cap - Mid Cap |
+
 ## 10 ways to profit before the crowd does
 
 1. Use your instinct
@@ -75,3 +96,43 @@ Writing covered call options is a good way to generate income for an exiting sto
 9. Political problems
 
 10. Funny accounting.
+
+## Investment Skills
+
+* Understand why you want to invest in stocks.
+
+* Get a good grounding in economics.
+
+* Stay on top of political trends.
+
+* Do some research on the numbers behind the company.
+
+* Investigate the people running the company.
+
+* Choose a winning industry.
+
+* Understand and identify mega trends.
+
+## Basic Rules of Trading:
+
+* Don't commit all your cash at once.
+
+* Have a plan.
+
+* Taking profits is not a sin.
+
+* Discover hedging techniques.
+
+* Find out which events move markets.
+
+* Check the stock's trading history.
+
+* Use stop-loss and limit orders.
+
+* Use discipline and patience versus emotion and panic.
+
+* Minimize transaction costs.
+
+* Understand the beta of a stock.
+
+* Read and learn from top traders.
