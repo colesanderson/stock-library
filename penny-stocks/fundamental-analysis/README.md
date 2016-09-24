@@ -44,9 +44,290 @@ Important number that give the final result of income statement is **Net profit/
 
 ## The Balance Sheet
 
+The balance sheet tells you what a company owns and what it owes. It breaks all items down between:
 
+- Assets (cash, investments, real estate, factories, etc.)
+- Liabilities (debt, accounts payable, mortgages, etc.)
 
+The balance sheet also divides assets and liabilities between:
 
+- Current (items accessible or due within the next year)
+- Long term (items accessible or due, but not for a year or more)
+
+The balance sheet is laid out as follows:
+
+**Assets** (what the company owes and has):
+
+- Current assets (accessible within the next year or less)
+- Long-term assets (not easily accessible within the next year)
+
+**Total assets** (the total of all current and long-term assets)
+
+**Liabilities** (what the company is committed to paying and what it owes):
+
+- Current liabilities (to be paid in 12 months or less)
+- Long term liabilities (due in a year or more)
+
+**Total liabilities** (the total of all current and long-term liabilities)
+
+You can see how a review of the balance sheet would give you a good picture of a company's financial strength.
+
+A penny stock with **no long-term debt**, **very low liabilities** and **very high assets** is well positioned to operate.
+
+Alternatively, a company that owes (liabilities) as much as it has (assets) is in a very tough situation.
+
+## The Cash Flow Statement
+
+Companies keep track of changes in their money from one period to the next by way of the cash flow statement. All cash generated or used is reported in the following categories:
+
+- **Operating activities**: the effect on cash due to operations, which were the items reported on the income statement.
+
+- **Investing activities**: reports the issuance and repurchase of the company's bonds and stock, as well as any dividend payments.
+
+- **Supplemental information**: reports significant items that did not involve cash, as well as income taxes and interest paid.
+
+By reviewing the cash flow, you knew to avoid this company while other investors bought into the company's revenue and earnings successes and probably would be scratching their heads as the shares sank.
+
+Some examples of cash flow items include, but are not limited to:
+
+- Effect of financings or stock offerings
+- Dividends paid out
+- Adjustments for changes in foreign exchange rates
+- Capital expenditures
+- Investments
+- Borrowings
+
+Generally, on cash flow statement you want to see:
+
+- Items that add to the overall cash flow
+- Improvement (increase) in these positive items from year to year
+- Few items that detract significantly from overall cash flow
+- Improvements (decrease) in these negative items from year to year
+- A net positive increase in cash from one year to the next
+
+The cash flow statement help:
+
+- Accounting personnel
+- Potential investors
+- Creditors and lenders
+- Customers, employees, and contractors
+
+When performing Leeds Analysis, look into the significant numbers on the cash flow statement and make sure that they are make sense, and are moving in the right direction, and are advancing the company forward.
+
+## Good Numbers
+
+Every number you look at needs to be considered in relation to:
+
+- The company's competitors
+- Its industry
+- The previous quarterly report
+- The same quarter from the prior year
+- The previous years
+
+Take a look at possible financial ratios by industry group in the spreadsheet. This will give you a better idea of the ratios you might expect to see.
+
+**Percent ROS**: return on sales ratio, expressed as a percentage.
+**Percent ROA**: return on assets ratio, expressed as a percentage.
+**Quick ratio**: current assets (less inventories) divided by current liabilities.
+**Current ratio**: current assets divided by current liabilities.
+
+## Accounting Magic
+
+Common practice of treating certain items (expenses, payments) in ways that are better for the company. This is done:
+
+- Make the financial results look stronger.
+- Defer or minimize tax payments.  
+- Write off more costs.
+- Create the appearance of growth, improving financials, or positive momentum.
+
+## Trends in Financial Results
+
+The most important aspect of financial results is their trends.
+
+There are three timeframes to financial results that you can use to uncover the trends:
+
+1. Previous results (last quarter, same quarter las year, previous years)
+2. Current results (most recent filing)
+3. Upcoming expectations (company issued guidance, or estimates of analysts)
+
+If you are reviewing a company's most recent quarterly financial, you will want to compare them to:
+
+- The previous quarter
+- The same quarter from the previous year
+
+## Financial Ratios
+
+Financial ratios are very simple yet highly valuable calculations that can really tell you a lot about a company.
+
+The most common financial ratio, which you have probably heard of before, price/earnings, most widely known as the P/E ratio. It is as simple as it looks. You divide the price of the shares by the company's latest annual earnings.
+
+A company that trade at $10 a share, and last year had earnings of $2, will have P/E ratio of 5 ($10/$2 = 5).
+
+Ratios reveal as a great deal about a company. When you are looking into them, make sure to keep these two points in mind:
+
+1. A ratio is just one number divided by another, and is certainly less complicated than it seems at first. Think them as a "flag" that indicate areas of strength or weakness.
+2. There is no correct value for a ratio. Whether a ratio is too low or too high depends on the overall industry, the company's competitors, the strategy of the company, and your own perspective.
+
+Financial ratios will help you:
+
+- Take numbers in context.
+- Directly compare them to competitors.
+- Directly compare them to the companies of much different sizes.
+
+## Trends in Financial Ratios
+
+When you look at a penny stock's financial results, you then:
+
+- Look at trends from previous results.
+- Develop an expectation for future results.
+- Compare the results to the competition, industry, and overall market.
+
+Similarly, when you calculate financial ratios (price/earnings, profit margin, etc.) you should:
+
+- Compare the ratios to previous periods.
+- Generate expectations for what the upcoming ratios will look like.
+- Compare these to the competition, industry, and overall market.
+
+## Additional Fundamental Factors
+
+### Industry
+
+The industry in which company is engaged should make a big difference in your analysis. For example, if a cement plant is losing money every year, that is a bad sign, where as a biotech company taking annual losses is generally expected.
+
+If the average P/E ratio for a company is certain industry group is 20, you can get a better idea of whether the stock you are looking into is a strong or weak on that basis.
+
+The same holds true for every aspect of the financials, and they should all be contrasted against the overall average for the specific industry.
+
+### Trends
+
+In the investment game, the goalposts will continually moving. Over the months and years, you will see changes in:
+
+- The direction of the economy
+- The priorities of consumers
+- The policies of governments (local/states/national wide/international)
+- People's habits, beliefs, and activities
+- The presidential office and senate
+
+If you can predict the result of shifting trend, then there will be usually be opportunities for you as penny stock investor.
+
+There are four primary trends that can impact your investment analysis and the companies you may be investing in:
+
+1. Social
+2. Political
+3. Industrial
+4. Consumer
+
+Also considered
+
+- Military (focus, spending, deployment regions)
+- Investor activity
+- Religious beliefs
+- Medical (treatments)
+- Medial (patient knowledge)
+- Technology adoption
+
+### Social Trends
+
+Social trends are about what people do, and have, and want, what they wear, how often they shop, what types of foods they eat (don't eat), and so on.
+
+### Political Trends
+
+Your job as an investor is to look for the results that will come out of shifts in the underlying political situation.
+
+### Industry Trends
+
+There are industry-specific trends, and at the same time each industry is affected by major countrywide and worldwide trends.
+
+### Consumer Trends
+
+This is similar to social trends, except it relates more to the actual activities of consumers. Are people shopping more, going further to buy items, paying more on average, asking for refund less often? etc.
+
+### Management
+
+Who's steering the ship? This may be the most important aspect of any publicly traded company. Look at the leadership of company: Look at the stock management team:
+
+    - Age/Health
+    - History/previous career
+    - Ethics
+    - Warning signs
+    - Management changes
+    - Connections
+    - Additional responsibilities
+    - Personal life
+
+### Risk
+
+There are two types or risk when investing in any publicly traded company: company risk and market risk.
+
+Company risk represents all the factors may hurt the underlying shares price. eg. pending lawsuits against it, high burn rate, 101 year old CEO, etc.
+
+### Competition
+
+Competition is strangely overlooked in many people's analysis.
+
+There are four aspects to competition:
+
+1. Market share
+2. Momentum/Trends
+3. Barriers to entry
+4. Competitive advantages
+
+### Market Share
+
+The percentage of sales that a company captures, out of the total sales for the industry, is it's market share. If the total market for skipping ropes is $100 million per year, and the company sells $5 million worth, then it has a 5 percent market share.
+
+This is a quick way to gauge relative size between competitors. Over time, it is also the best way to know whether a company is taking away market share from its competition, or losing out over time.
+
+### Momentum / Trends
+
+Keep an eye on trends (increasing/decreasing), especially when compared to the competition. You want to look for:
+
+- An increasing overall market
+- Improving market share
+- Drops in market share among the competition
+
+### Barriers to Entry
+
+The worst kind of competition is new competition. If a company is working on handling the competitors it already has, the last thing it wants to encounter is a new player throwing itself into the fray.
+
+### Competitive Advantages
+
+Competitive Advantages allow a company to produce its wares from less, sell its product for more, or gain market share with lower effort.
+
+A strong competition advantage:
+
+- Results in easier customer acquisition.
+- Allows for faster production.
+- Enables a company to charge more.
+- Enables a company to produce for less.
+- Makes life difficult for the competition.
+
+### Customers
+
+- Diverse
+- Loyal
+- Numerous
+
+When performing Leeds Analysis, look for a customer base that is:
+
+- Growing in numbers
+- Growing in purchase amounts
+- Increasing frequency of repeat purchases
+- Paying more per order
+- Remaining loyal over the years
+- Numerous (the more customers the better)
+
+### Intellectual Property
+
+Patents, trademarks, and copyrights all play a role in any company.
+
+### Legal Issues
+
+One factor that can derail a penny stock is a lawsuit. Even the expense of legal proceedings can be too much to bear for a small company. Or damage the penny stock when they cannot afford lawsuits.
+
+### Press Releases (Public Relations/Investors Relations)
+
+Press releases can really throw a company's share price around. The right "just-awarded contract" or high level customer win, or patent award can cause the share price to multiply in value. 
 
 ## How To Research Fundamental Analysis
 
@@ -56,6 +337,8 @@ Financial earnings: http://www.marketwatch.com/investing/stock/cvo/financials/in
 
 Breaking news: http://seekingalpha.com/symbol/CVO/news
 
+Financial Ratios by Industry Group:
+https://biz.yahoo.com/p/sum_conameu.html
 
 
 Personal note:
