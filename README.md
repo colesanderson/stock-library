@@ -18,7 +18,7 @@ Organize information in folders and links from home page README
 
 * [Investing For Growth](investing-for-growth/README.md)
 
-* [Penny Stocks](penny-stocks/README.md)
+* [Peter Leeds](peter-leeds/README.md)
 
 * [Read Charts](read-charts/README.md)
 
@@ -27,6 +27,8 @@ Organize information in folders and links from home page README
 * [Stock Strategy](stock-strategy/README.md)
 
 * [Stock Tables](stock-tables/README.md)
+
+* [Trader Toolbox](trader-toolbox/README.md)
 
 * [When To Sell Stocks](when-sell-stocks/README.md)
 
